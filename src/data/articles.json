@@ -1,0 +1,43 @@
+{
+  "masthead": "THE NEON NOODLE TIMES",
+  "boxPrompt": "SELECT AN EDITION",
+  "backToHub": "BACK TO HUB",
+  "items": [
+    {
+      "id": "neon-noodle-times-01",
+      "title": "LOCAL DEVELOPER BUILDS ENTIRE 3D UNIVERSE TO AVOID WRITING A SIMPLE CV",
+      "date": "October 6, 2026",
+      "summary": "A simple CV grows a neon market, a noodle stall, and several opportunities for one more feature.",
+      "body": "Fès, Morocco — Local developer Mohammed Marzaq has built a neon night-market portfolio with React, Node.js and Unity/C#, while applying for game-development roles. It features camera rides, a noodle stall and, most recently, a contact counter. Observers say the résumé itself is now the least complicated object in the project.\n\nThe original assignment was simple: make a clear CV page. “One page, no fireworks,” advised a very concerned rubber duck, speaking from the edge of the desk. Then came one more feature, then one more sign, then a form with spice levels. The duck has since requested a smaller project and a larger pond.\n\nA strictly fictional survey of the project found that 94.7% of “just one more feature” estimates are inaccurate, with the remaining 5.3% still compiling. The percentages were produced by a calculator that has never shipped software. In this report, perfectionism is represented by a button receiving its fourth hover-state review while the headline waits for a headline.\n\nAt 3 a.m., debugging becomes less a discipline than a conversation with the console. A browser tab reportedly open since 2023 offered one useful diagnosis: “Have you tried closing me?” It was immediately ignored, then pinned. No real browser tabs were interviewed for this report, mostly because they declined to stop loading.\n\nThe resulting portfolio is now more elaborate than a job application strictly requires, which is precisely the point of the joke. It lets a developer interested in game roles bring a small interactive world to the introduction, then politely asks visitors to find the actual message button. The old market-stall rule still applies: deadlines never look empty, shipping remains the art form, and a noodle bowl is on standby for the final polish. The rubber duck recommends shipping this edition, taking a break, and resisting any proposal to add a quest log.",
+      "status": "published",
+      "badge": "SATIRE",
+      "byline": "By Staff Reporter",
+      "dateline": "Fès, Morocco",
+      "weather": "NEON DRIZZLE. 94.7% chance of one more feature. Visibility reduced near the debug console."
+    },
+    {
+      "id": "neon-noodle-times-02",
+      "title": "The Next Edition",
+      "date": "Coming soon",
+      "summary": "Still being printed. Check back soon.",
+      "body": "Still being printed. Check back soon.",
+      "status": "coming-soon"
+    },
+    {
+      "id": "neon-noodle-times-03",
+      "title": "The Next Edition",
+      "date": "Coming soon",
+      "summary": "Still being printed. Check back soon.",
+      "body": "Still being printed. Check back soon.",
+      "status": "coming-soon"
+    },
+    {
+      "id": "neon-noodle-times-04",
+      "title": "The Next Edition",
+      "date": "Coming soon",
+      "summary": "Still being printed. Check back soon.",
+      "body": "Still being printed. Check back soon.",
+      "status": "coming-soon"
+    }
+  ]
+}

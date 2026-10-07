@@ -1,0 +1,42 @@
+{
+  "phone": {
+    "label": "Phone",
+    "display": "+212 6 13 44 35 99",
+    "url": "tel:+212613443599"
+  },
+  "sign": "ORDER UP",
+  "eyebrow": "MARZAQ NIGHT MARKET / CONTACT COUNTER",
+  "menuTitle": "TONIGHT'S MENU",
+  "menuNote": "Tap an item to get in touch",
+  "openForm": "PLACE AN ORDER",
+  "backToHub": "BACK TO HUB",
+  "ticket": {
+    "eyebrow": "NIGHT MARKET / ORDER TICKET 001",
+    "title": "Send a message",
+    "intro": "Tell me what is cooking.",
+    "nameLabel": "Name for the order",
+    "namePlaceholder": "Your name",
+    "emailLabel": "Your email",
+    "emailPlaceholder": "you@example.com",
+    "messageLabel": "Your order (message)",
+    "messagePlaceholder": "Write your message...",
+    "spiceLabel": "Spice level",
+    "spiceLevels": [
+      { "id": "mild", "label": "Mild", "meaning": "Just saying hi" },
+      { "id": "medium", "label": "Medium", "meaning": "Job opportunity" },
+      { "id": "extra-hot", "label": "Extra Hot", "meaning": "Urgent" }
+    ],
+    "submit": "SEND ORDER",
+    "back": "BACK TO STALL",
+    "loading": "Cooking your order...",
+    "success": "Order received! I'll reply soon. Thank you for dining with us.",
+    "fallback": "The kitchen could not send this order automatically. Open the prepared email below to send it directly.",
+    "rateLimit": "Please wait {seconds} seconds before sending another order.",
+    "messageTooLong": "Please keep your message under {limit} characters.",
+    "messageRequired": "Please add a message before sending.",
+    "honeypotLabel": "Leave this field empty",
+    "mailtoLabel": "OPEN PREPARED EMAIL",
+    "messageLimit": 2000,
+    "rateLimitMs": 30000
+  }
+}

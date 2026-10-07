@@ -1,0 +1,18 @@
+{
+  "note": "Strength values are relative draft weights for the word-cloud display. Adjust them to match your actual proficiency.",
+  "items": [
+    { "name": "Unity", "strength": 96, "color": "#79f1df" },
+    { "name": "C#", "strength": 94, "color": "#ff70c3" },
+    { "name": "JavaScript", "strength": 88, "color": "#f9c96f" },
+    { "name": "React", "strength": 84, "color": "#7de5ff" },
+    { "name": "Python", "strength": 81, "color": "#a899ff" },
+    { "name": "Node.js", "strength": 79, "color": "#8de89b" },
+    { "name": "HTML/CSS", "strength": 78, "color": "#ff9877" },
+    { "name": "Git", "strength": 75, "color": "#86f1ce" },
+    { "name": "Express", "strength": 72, "color": "#d0a2ff" },
+    { "name": "MySQL", "strength": 70, "color": "#83bbff" },
+    { "name": "Power BI", "strength": 68, "color": "#ffd66f" },
+    { "name": "MongoDB", "strength": 66, "color": "#9ee981" },
+    { "name": "Google Analytics", "strength": 60, "color": "#ffa186" }
+  ]
+}

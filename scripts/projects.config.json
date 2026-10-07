@@ -1,0 +1,23 @@
+{
+  "username": "mohammedmr123",
+  "portfolioRepo": "mohammedmr123/portfolio",
+  "EXCLUDE": [],
+  "INCLUDE_ONLY": [],
+  "FEATURED": [
+    "mohammedmr123/pfe-mamys",
+    "mohammedmr123/2D-run-and-gun"
+  ],
+  "OVERRIDES": {
+    "mohammedmr123/2D-run-and-gun": {
+      "title": "2D Run and Gun",
+      "description": "A 2D action platformer and run-and-gun game developed in Unity with C#, featuring responsive character movement, projectile weapon mechanics, and dynamic enemy encounters.",
+      "tags": [
+        "Unity",
+        "C#",
+        "2D Game",
+        "Game Dev"
+      ]
+    }
+  }
+}
+

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="night" x2="0" y2="1"><stop stop-color="#121629" /><stop offset="1" stop-color="#070a12" /></linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="8" result="blur" /><feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge></filter>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0v48" fill="none" stroke="#23404a" stroke-opacity=".35" /></pattern>
+  </defs>
+  <rect width="1200" height="630" fill="url(#night)" />
+  <rect width="1200" height="630" fill="url(#grid)" />
+  <path d="M0 485h1200" stroke="#294851" stroke-width="2" />
+  <path d="m0 630 400-145m800 145L800 485" stroke="#19303b" stroke-width="2" />
+  <g transform="translate(700 180)">
+    <path d="M-225 76h450l48 38v18h-546v-18z" fill="#39283e" stroke="#bd478f" stroke-width="4" />
+    <path d="M-245 70-212 6h424l33 64z" fill="#742d62" stroke="#ec58b6" stroke-width="5" />
+    <path d="M-194 97h388v25h-388z" fill="#110e1c" stroke="#5ce3dc" stroke-width="3" />
+    <text x="0" y="117" fill="#f7efff" font-family="monospace" font-size="24" font-weight="700" text-anchor="middle" letter-spacing="3" filter="url(#glow)">MOHAMMED MARZAQ</text>
+    <path d="M-170 138v230m340-230v230M-250 368h500" fill="none" stroke="#845446" stroke-width="12" />
+    <path d="M-223 171h446" stroke="#ffd16e" stroke-width="7" />
+    <circle cx="-172" cy="44" r="17" fill="#ff5fba" filter="url(#glow)" />
+    <circle cx="172" cy="44" r="17" fill="#50e6ea" filter="url(#glow)" />
+    <circle cx="-96" cy="-20" r="8" fill="#69f4df" filter="url(#glow)" />
+    <circle cx="0" cy="-35" r="8" fill="#ffab5b" filter="url(#glow)" />
+    <circle cx="96" cy="-20" r="8" fill="#69f4df" filter="url(#glow)" />
+  </g>
+  <g transform="translate(86 86)">
+    <rect width="50" height="50" fill="#090d17" stroke="#71eee0" stroke-width="2" />
+    <text x="25" y="34" fill="#e8fff9" font-family="monospace" font-size="30" text-anchor="middle">M</text>
+  </g>
+  <text x="84" y="235" fill="#f6f2fb" font-family="Arial,sans-serif" font-size="52" font-weight="700">Mohammed Marzaq</text>
+  <text x="87" y="286" fill="#72eee0" font-family="monospace" font-size="20" letter-spacing="2">UNITY DEVELOPER</text>
+  <text x="87" y="321" fill="#a7aebb" font-family="monospace" font-size="18">FULL STACK DEVELOPER &amp; DATA ANALYST</text>
+  <text x="87" y="548" fill="#8b99a8" font-family="monospace" font-size="15" letter-spacing="2">INTERACTIVE WORK / APPLICATIONS / DATA</text>
+</svg>

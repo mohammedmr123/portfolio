@@ -1,0 +1,93 @@
+{
+  "note": "Illustrative sample entries. Replace titles, descriptions, tags, artwork, and links with your own projects before publishing.",
+  "items": [
+    {
+      "id": "neon-delivery-run",
+      "title": "Neon Delivery Run",
+      "category": "Arcade game concept",
+      "description": "A compact midnight-market delivery game concept built around quick routes, careful timing, and a steadily warming bowl of noodles.",
+      "tags": ["Unity", "C#", "Game design"],
+      "color": "#ff62bb",
+      "image": "/projects/neon-delivery-run.svg",
+      "imageAlt": "A neon courier running between market towers",
+      "link": null
+    },
+    {
+      "id": "signal-dashboard",
+      "title": "Signal Dashboard",
+      "category": "Analytics interface",
+      "description": "A sample operations dashboard concept that turns noisy event streams into a calm, filterable view of useful trends.",
+      "tags": ["React", "JavaScript", "Charts"],
+      "color": "#61e9dd",
+      "image": "/projects/signal-dashboard.svg",
+      "imageAlt": "A cyan analytics dashboard with chart lines and data columns",
+      "link": null
+    },
+    {
+      "id": "parcel-pulse",
+      "title": "Parcel Pulse",
+      "category": "Full stack application",
+      "description": "A sample parcel-tracking service concept with a small Express API, shipment milestones, and a responsive customer view.",
+      "tags": ["Node.js", "Express", "MongoDB"],
+      "color": "#ffb35e",
+      "image": "/projects/parcel-pulse.svg",
+      "imageAlt": "A glowing orange parcel with a route map behind it",
+      "link": null
+    },
+    {
+      "id": "civic-lens",
+      "title": "Civic Lens",
+      "category": "Data exploration concept",
+      "description": "A sample public-data explorer concept for comparing neighbourhood indicators through maps, clear summaries, and reusable filters.",
+      "tags": ["Python", "Power BI", "Data"],
+      "color": "#a98aff",
+      "image": "/projects/civic-lens.svg",
+      "imageAlt": "A purple data map with highlighted districts and chart marks",
+      "link": null
+    },
+    {
+      "id": "pixel-pantry",
+      "title": "Pixel Pantry",
+      "category": "Inventory tool concept",
+      "description": "A sample inventory tool concept that pairs quick stock updates with low-stock signals and a tidy product catalogue.",
+      "tags": ["JavaScript", "MySQL", "UX"],
+      "color": "#79e58c",
+      "image": "/projects/pixel-pantry.svg",
+      "imageAlt": "A green pixel-art pantry shelf with jars and leafy ingredients",
+      "link": null
+    },
+    {
+      "id": "orbit-garden",
+      "title": "Orbit Garden",
+      "category": "Interactive 3D scene",
+      "description": "A sample real-time 3D scene concept exploring small-scale environments, readable lighting, and playful object interactions.",
+      "tags": ["Unity", "C#", "3D"],
+      "color": "#62c9ff",
+      "image": "/projects/orbit-garden.svg",
+      "imageAlt": "A blue-green orbital garden with a ringed planet and floating leaves",
+      "link": null
+    },
+    {
+      "id": "market-metrics",
+      "title": "Market Metrics",
+      "category": "Business intelligence concept",
+      "description": "A sample reporting concept for following campaign performance, comparing periods, and surfacing metrics that need attention.",
+      "tags": ["Power BI", "Analytics", "SQL"],
+      "color": "#ff7b72",
+      "image": "/projects/market-metrics.svg",
+      "imageAlt": "A coral performance report with stacked columns and a rising trend",
+      "link": null
+    },
+    {
+      "id": "loopline-api",
+      "title": "Loopline API",
+      "category": "Developer tool concept",
+      "description": "A sample API-monitoring tool concept with readable endpoint status, response-time history, and focused service health checks.",
+      "tags": ["Node.js", "REST API", "Git"],
+      "color": "#e38bff",
+      "image": "/projects/loopline-api.svg",
+      "imageAlt": "A magenta service network with connected API nodes",
+      "link": null
+    }
+  ]
+}

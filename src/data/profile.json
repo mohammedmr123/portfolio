@@ -1,0 +1,26 @@
+{
+  "bio": "Unity / C# developer with a full-stack engineering background and a strong interest in gameplay systems, product thinking, and data-driven problem solving. I build immersive experiences, clean interfaces, and reliable technical solutions across game and web development.",
+  "experience": [
+    {
+      "company": "CNEXIA",
+      "role": "Technical Collaborator / Specialized Support",
+      "period": "2025"
+    },
+    {
+      "company": "LIVFEX",
+      "role": "Full Stack Developer Intern",
+      "period": "2024"
+    }
+  ],
+  "diplomas": [
+    { "title": "Diplôme de Technicien Spécialisé en Développement Informatique", "institution": "ISTA Adarissa", "year": "2024" },
+    { "title": "Baccalauréat Sciences Physiques", "institution": "Lycée Champ de Course", "year": "2021" },
+    { "title": "Bachelor's in Management", "institution": "Sup Management", "year": "2025 - 2026" }
+  ],
+  "socials": [
+    { "id": "github", "label": "GitHub", "mark": "GH", "url": "https://github.com/mohammedmr123" },
+    { "id": "cv", "label": "CV", "mark": "CV", "url": "/simple.html" },
+    { "id": "email", "label": "Email", "mark": "@", "url": "mailto:marzaqmohammed6@gmail.com" },
+    { "id": "linkedin", "label": "LinkedIn", "mark": "in", "url": "https://www.linkedin.com/in/mohammed-m-237b632b9" }
+  ]
+}
