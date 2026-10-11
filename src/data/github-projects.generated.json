@@ -1,6 +1,6 @@
 {
   "username": "mohammedmr123",
-  "generated_at": "2026-10-07T08:55:26.545Z",
+  "generated_at": "2026-10-11T11:20:36.203Z",
   "excluded": {
     "archived": 0,
     "portfolio": 1,
@@ -12,11 +12,17 @@
       "name": "pfe-mamys",
       "full_name": "mohammedmr123/pfe-mamys",
       "html_url": "https://github.com/mohammedmr123/pfe-mamys",
-      "title": "pfe-mamys",
-      "description": null,
+      "title": "Mammy's Digital Showcase",
+      "description": "A full-stack digital restaurant showcase, online interactive menu, and table reservation web application built for Mammy's Smashed Burgers.",
       "language": "JavaScript",
       "topics": [],
-      "tags": [],
+      "tags": [
+        "React",
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "Tailwind CSS"
+      ],
       "homepage": "https://pfe-mamys.vercel.app",
       "live_demo_url": "https://pfe-mamys.vercel.app/",
       "homepage_check": "reachable",
@@ -31,11 +37,12 @@
       "license": null,
       "featured": true,
       "featured_order": 0,
-      "image": null,
+      "image": "projects/pfe-mamys.jpg",
+      "imageAlt": "Mammy's gourmet double smashed burger with melted cheddar cheese and digital restaurant menu interface",
       "hidden": false,
-      "display_mode": "name-language-only",
-      "needs_description": true,
-      "needs_image": true
+      "display_mode": "description",
+      "needs_description": false,
+      "needs_image": false
     },
     {
       "name": "2D-run-and-gun",
@@ -65,11 +72,48 @@
       "license": null,
       "featured": true,
       "featured_order": 1,
-      "image": null,
+      "image": "projects/2d-run-and-gun.jpg",
+      "imageAlt": "2D retro arcade action platformer run-and-gun gameplay with hero jumping, shooting lasers, and battling robot drones",
       "hidden": false,
       "display_mode": "description",
       "needs_description": false,
-      "needs_image": true
+      "needs_image": false
+    },
+    {
+      "name": "TankBattle",
+      "full_name": "mohammedmr123/TankBattle",
+      "html_url": "https://github.com/mohammedmr123/TankBattle",
+      "title": "Tank Battleground",
+      "description": "A top-down 3D tank combat shooter built in Unity 6 LTS featuring wave-based AI enemy encounters, custom turret aiming, vehicle physics, audio, and visual effects across 3 arenas.",
+      "language": "C#",
+      "topics": [],
+      "tags": [
+        "Unity 6",
+        "C#",
+        "3D Game",
+        "Cinemachine",
+        "Game Dev"
+      ],
+      "homepage": null,
+      "live_demo_url": null,
+      "homepage_check": "not-set",
+      "stargazers_count": 0,
+      "size_kb": 45907,
+      "empty": false,
+      "has_readme": true,
+      "updated_at": "2026-10-10T20:55:02Z",
+      "fork": false,
+      "parent": null,
+      "fork_label": null,
+      "license": null,
+      "featured": true,
+      "featured_order": 2,
+      "image": "projects/tank-battle.jpg",
+      "imageAlt": "Top-down 3D tank combat shooter gameplay in Unity featuring battle tanks, explosive projectiles, and arena warfare",
+      "hidden": false,
+      "display_mode": "description",
+      "needs_description": false,
+      "needs_image": false
     }
   ]
 }

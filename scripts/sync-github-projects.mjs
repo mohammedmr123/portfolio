@@ -146,6 +146,7 @@ async function mapRepository(repo) {
     featured: featuredIndex >= 0,
     featured_order: featuredIndex >= 0 ? featuredIndex : null,
     image,
+    imageAlt: overrides.imageAlt || overrides.image_alt || null,
     hidden: Boolean(overrides.hidden),
     display_mode: description ? 'description' : 'name-language-only',
     needs_description: !description,

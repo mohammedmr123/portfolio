@@ -5,9 +5,23 @@
   "INCLUDE_ONLY": [],
   "FEATURED": [
     "mohammedmr123/pfe-mamys",
-    "mohammedmr123/2D-run-and-gun"
+    "mohammedmr123/2D-run-and-gun",
+    "mohammedmr123/TankBattle"
   ],
   "OVERRIDES": {
+    "mohammedmr123/pfe-mamys": {
+      "title": "Mammy's Digital Showcase",
+      "description": "A full-stack digital restaurant showcase, online interactive menu, and table reservation web application built for Mammy's Smashed Burgers.",
+      "tags": [
+        "React",
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "Tailwind CSS"
+      ],
+      "image": "projects/pfe-mamys.jpg",
+      "imageAlt": "Mammy's gourmet double smashed burger with melted cheddar cheese and digital restaurant menu interface"
+    },
     "mohammedmr123/2D-run-and-gun": {
       "title": "2D Run and Gun",
       "description": "A 2D action platformer and run-and-gun game developed in Unity with C#, featuring responsive character movement, projectile weapon mechanics, and dynamic enemy encounters.",
@@ -16,8 +30,24 @@
         "C#",
         "2D Game",
         "Game Dev"
-      ]
+      ],
+      "image": "projects/2d-run-and-gun.jpg",
+      "imageAlt": "2D retro arcade action platformer run-and-gun gameplay with hero jumping, shooting lasers, and battling robot drones"
+    },
+    "mohammedmr123/TankBattle": {
+      "title": "Tank Battleground",
+      "description": "A top-down 3D tank combat shooter built in Unity 6 LTS featuring wave-based AI enemy encounters, custom turret aiming, vehicle physics, audio, and visual effects across 3 arenas.",
+      "tags": [
+        "Unity 6",
+        "C#",
+        "3D Game",
+        "Cinemachine",
+        "Game Dev"
+      ],
+      "image": "projects/tank-battle.jpg",
+      "imageAlt": "Top-down 3D tank combat shooter gameplay in Unity featuring battle tanks, explosive projectiles, and arena warfare"
     }
   }
 }
+
 
